@@ -32,6 +32,7 @@ docs/
 ├── architecture.md   시스템 경계 · 데이터 소유권 · 연계 방식
 ├── flows/            end-to-end 업무 흐름 (입고 · 판매 · 반품 · 마감 · 대사)
 └── adr/              시스템 간 결정 기록
+├── backlog.md        나중에 설계할 것 (미룬 항목)
 contracts/            시스템 간 API 스펙 · 이벤트 스키마
 e2e/                  시스템을 넘나드는 시나리오 테스트
 ```
