@@ -1,6 +1,6 @@
 # ADR-0039 MANUAL_REVIEW는 담당자가 VAN · 카드사에 확인하고 Payment에 운영 확정한 뒤 필요하면 운영 취소한다
 
-- 상태: 결정
+- 상태: 대체됨 (ADR-0040)
 - 날짜: 2026-11-24
 - 관련 시스템: Payment Server, ERP
 
