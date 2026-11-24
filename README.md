@@ -28,6 +28,7 @@
 
 ```text
 docs/
+├── summary.md        1단계 설계 요약 (지금 유효한 결정만) ← 처음 읽을 문서
 ├── standards.md      상용화 기준 체크리스트 (모든 설계의 판단 기준)
 ├── architecture.md   시스템 경계 · 데이터 소유권 · 연계 방식
 ├── flows/            end-to-end 업무 흐름 (입고 · 판매 · 반품 · 마감 · 대사)
