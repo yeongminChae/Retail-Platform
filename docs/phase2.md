@@ -6,7 +6,7 @@
 |---|---|---|
 | PAYMENT-SIMULATOR | 설계 완료 (2026-11-28) | PAYMENT-SIMULATOR `docs/phase2/` |
 | Retail-POS | 미착수 | — |
-| Retail-ERP | 주제 목록만 (레포 생성됨, 설계 시작 시 그 레포로 옮김) | 지금은 이 레포 `docs/systems/erp/` |
+| Retail-ERP | 설계 중 (2026-11-29 시작) | Retail-ERP `docs/` (주제 E01~E09: `docs/README.md`) |
 
 ## PAYMENT-SIMULATOR (`docs/phase2/`)
 

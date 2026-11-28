@@ -6,7 +6,7 @@
 
 - 기준: **두 시스템 이상에 걸치는가?** 걸치면 이 레포, 한 시스템 안에서 끝나면 그 시스템의 레포 `docs/`.
   - 예: 거래번호 체번 규칙(POS ↔ Payment) → 여기 / POS 장바구니 잠금 → Retail-POS
-- 예외: **아직 레포가 없는 시스템**의 상세 설계는 레포가 생길 때까지 이 레포 `docs/systems/<시스템>/`에 둔다. 레포를 만들면 그 레포 `docs/`로 옮기고 여기서 지운다. (현재: Retail-ERP — 레포는 만들어졌고, ERP 설계를 시작할 때 `docs/systems/erp/`를 옮긴다)
+- 예외: **아직 레포가 없는 시스템**의 상세 설계는 레포가 생길 때까지 이 레포 `docs/systems/<시스템>/`에 둔다. 레포를 만들면 그 레포 `docs/`로 옮기고 여기서 지운다. (현재 해당 없음 — Retail-ERP 설계는 2026-11-29 Retail-ERP `docs/`로 옮김)
 - 형제 레포는 `../Retail-POS`, `../PAYMENT-SIMULATOR`, `../Retail-ERP`에 있다고 가정한다. 경로를 하드코딩하지 말고 문서에는 레포 이름으로 적는다.
   - 기존 ADR의 시스템 이름 `POS_APP`은 레포 `Retail-POS`, `retail-erp`는 레포 `Retail-ERP`를 뜻한다 (ADR은 고치지 않는다).
 
