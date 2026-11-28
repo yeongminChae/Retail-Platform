@@ -1,6 +1,6 @@
-# retail-erp 2단계 상세 설계 (임시 위치)
+# Retail-ERP 2단계 상세 설계 (임시 위치)
 
-`retail-erp` 레포가 생길 때까지 여기에 둔다 (CLAUDE.md 예외). 레포를 만들면 그 레포 `docs/`로 옮기고 여기서 지운다.
+`Retail-ERP` 레포(https://github.com/yeongminChae/Retail-ERP)는 만들어졌다. ERP 설계를 시작할 때 이 폴더를 그 레포 `docs/`로 옮기고 여기서 지운다 (CLAUDE.md 예외).
 
 1단계 플랫폼 결정(`docs/summary.md`, ADR)을 기준으로 ERP 안의 설계(화면 · 테이블 · 내부 흐름 · 구현 작업)를 정한다. 시스템 간 결정이 바뀌면 새 ADR로 남긴다.
 

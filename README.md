@@ -12,7 +12,7 @@
 |---|---|---|
 | [POS_APP](https://github.com/yeongminChae/POS_APP) | 판매 오케스트레이션 (장바구니 · 판매 · 결제 요청 · 반품) | 리팩토링·버그 수정 완료, API 변경 진행 중 |
 | [PAYMENT-SIMULATOR](https://github.com/yeongminChae/PAYMENT-SIMULATOR) | 결제 중계 서버 (승인 · 조회 · 취소 · 망취소 · Recovery) + VAN Simulator | 독립 프로젝트로 완성, 연동 전 |
-| retail-erp (예정) | 기준정보 · 구매 · 입고 · 재고 원장 · 마감 · 대사 | 설계 전 |
+| Retail-ERP | 기준정보 · 구매 · 입고 · 재고 원장 · 마감 · 대사 | 설계 전 |
 
 로컬에서는 한 폴더 아래 나란히 clone한다 ([ADR-0001](docs/adr/0001-형제-레포-구조.md)).
 
@@ -21,7 +21,7 @@
 ├── Retail-Platform/
 ├── POS_APP/
 ├── PAYMENT-SIMULATOR/
-└── retail-erp/
+└── Retail-ERP/
 ```
 
 ## 이 레포의 구조
