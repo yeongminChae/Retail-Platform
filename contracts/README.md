@@ -4,7 +4,7 @@
 
 | 계약 | 제공 | 사용 | 상태 |
 |---|---|---|---|
-| 결제 API (승인 · 조회 · 취소 · 취소 조회 · 망취소) | Payment Server | POS_APP | 구현 있음 (PAYMENT-SIMULATOR), 스펙 미작성 |
-| 판매 결과 전송 (판매 확정 · 반품 · 마감 요약) | ERP | POS_APP 점포 서버 | 방식 결정 (ADR-0014, 0019), 스펙 미작성 |
-| 기준정보 배포 (일배치 전체 · 버전 이후 변경분) | ERP | POS_APP 점포 서버 | 방식 결정 (ADR-0034), 스펙 미작성 |
+| 결제 API (승인 · 조회 · 취소 · 취소 조회 · 망취소) | Payment Server | Retail-POS | 구현 있음 (PAYMENT-SIMULATOR), 스펙 미작성 |
+| 판매 결과 전송 (판매 확정 · 반품 · 마감 요약) | ERP | Retail-POS 점포 서버 | 방식 결정 (ADR-0014, 0019), 스펙 미작성 |
+| 기준정보 배포 (일배치 전체 · 버전 이후 변경분) | ERP | Retail-POS 점포 서버 | 방식 결정 (ADR-0034), 스펙 미작성 |
 | 결제 상태 전송 (posTrx별 합산 상태) | ERP | Payment Server | 방식 결정 (ADR-0025), 스펙 미작성 |
