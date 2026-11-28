@@ -6,7 +6,7 @@
 |---|---|---|
 | PAYMENT-SIMULATOR | 설계 완료 (2026-11-28) | PAYMENT-SIMULATOR `docs/phase2/` |
 | POS_APP | 미착수 | — |
-| retail-erp | 미착수 (레포 없음) | — |
+| retail-erp | 진행 중 (레포가 없어 이 레포에 둠, 레포 생기면 옮김) | 이 레포 `docs/systems/erp/` |
 
 ## PAYMENT-SIMULATOR (`docs/phase2/`)
 
